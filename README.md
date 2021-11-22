@@ -2,7 +2,7 @@
 ***
 **Curso** focado para estudantes iniciantes de TI que queiram
 Aprender lógica de programação de maneira razoável
-Com programas especializados _**(IDE)**_ para edição de código em Portugal tal como o _**VISUALG & SCRATCH**_
+Com programas especializados _**(IDE)**_ para edição de código em Portugol tal como o _**VISUALG & SCRATCH**_
 Seguido de exercícios resolvidos envolvendo todos os conceitos
 Primordiais no aprendizado de lógica algorítmica tais como:
 * Criação e manipulação de Variáveis
